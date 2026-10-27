@@ -40,7 +40,7 @@
   </tr>
 </table>
 
-### 🛠️ Stack Tecnológico
+### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=FFBBBB00&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Stack+Tecnol%C3%B3gico" alt="Typing SVG" /></a>
 
 #### **Lenguajes de Programación**
 <p align="left">
@@ -71,29 +71,33 @@
 
 ---
 
-### 🚀 Proyectos Destacados
+### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=FFBBBB00&width=435&lines=%F0%9F%9A%80+Proyectos+Destacados" alt="Typing SVG" /></a>
 
-```
-├── 📱 Aplicación Web y Móvil de Reseñas de Películas y Series
-│   ├── Sistema de gestión y publicación de reseñas con interfaz intuitiva y práctica.
-│   └── Tech Stack: React / Node.js / Git / GitHub.
-│
-├── 🏢 Automatización y Sincronización de Datos — Aurora SpA
-│   ├── Desarrollo de flujos automatizados para optimización de procesos administrativos.
-│   └── Tech Stack: Google Apps Script, Google Sheets API, Transparent Classroom API.
-│
-└── 🏥 Proyecto Salud Mayor — Seremi Salud Valparaíso
-    └── Levantamiento de requerimientos y documentación técnica para App enfocada en adultos mayores.
-```
+<img width="1200" height="298" alt="descarga (1)" src="https://github.com/user-attachments/assets/2f5a00f1-e912-4a48-9f6d-b483b95f56da" />
 
 ---
----
 
-### 📜 Certificaciones & Cursos
+<!-- CERTIFICACIONES Y CURSOS -->
 
-* 🌐 **Introducción a las Redes** — *Cisco Networking Academy*
+<p align="left">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=E1BD68&width=520&height=45&lines=%F0%9F%93%9C+Certificaciones+%26+Cursos"
+    alt="Certificaciones y Cursos"
+  />
+</p>
 
----
+<p align="left">
+  <img
+    src="https://img.shields.io/badge/CISCO-NETWORKING%20ACADEMY-9B111E?style=for-the-badge&logo=cisco&logoColor=white"
+    alt="Cisco Networking Academy"
+  />
+</p>
+
+<p>
+  🎓 <strong>Introducción a las Redes</strong>
+  <br/>
+  <sub>Fundamentos de redes de computadores · Cisco Networking Academy</sub>
+</p>
 
 <p align="center">
   <sub><i>"Innovación tecnológica y desarrollo orientados a soluciones con impacto real."</i></sub>
