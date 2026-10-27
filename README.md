@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="mailto:sebastian924srs@gmail.com"><img src="https://img.shields.io/badge/Email-sebastian924srs%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/tu-usuario-aqui"><img src="https://img.shields.io/badge/LinkedIn-Sebastián_Rojas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sebastián-rojas-4b8a00345"><img src="https://img.shields.io/badge/LinkedIn-Sebastián_Rojas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
