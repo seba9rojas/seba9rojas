@@ -16,19 +16,29 @@
 
 ## 👨‍💻 Sobre mí
 
-<img
-  align="left"
-  src="assets/seba_codigo_respiro_bordes_corregidos.gif"
-  width="280"
-  alt="Sebastián Rojas - Fútbol y programación"
-/>
+<table>
+  <tr>
+    <td width="430" valign="top">
+      <img
+        src="https://github.com/user-attachments/assets/484dabee-afe7-4070-9015-174cbc29025b"
+        width="400"
+        alt="Sebastián Rojas - Fútbol y programación"
+      />
+    </td>
+    <td width="40"></td>
+    <td valign="top">
 
-- 🎓 **Educación:** Ingeniería Civil Informática en la **PUCV**.
-- 🛠️ **Intereses:** Desarrollo web y móvil, automatización, inteligencia artificial y análisis de datos.
-- 💼 **Experiencia:** Automatización y sincronización de información con APIs en **Aurora SpA**; diseño y levantamiento de requerimientos para **Salud Mayor**, junto a la Seremi de Salud Valparaíso.
-- 🎯 **Enfoque actual:** Código limpio, resolución de problemas y trabajo colaborativo.
+➜ **Educación:** Ingeniería Civil Informática en la **PUCV**.  
 
-<br clear="left" />
+➜ **Intereses:** Desarrollo web y móvil, automatización, inteligencia artificial y análisis de datos.  
+
+➜ **Experiencia:** Automatización y sincronización de información con APIs; diseño, documentación y levantamiento de requerimientos para **Salud Mayor**.  
+
+➜ **Enfoque actual:** Código limpio, resolución de problemas y trabajo colaborativo.  
+
+  </td>
+  </tr>
+</table>
 
 ### 🛠️ Stack Tecnológico
 
