@@ -23,7 +23,7 @@
   alt="Sebastián Rojas - Fútbol y programación"
 />
 
-- 🎓 **Educación:** Ingeniería Civil Informática en la **PUCV** (graduación esperada: 2027).
+- 🎓 **Educación:** Ingeniería Civil Informática en la **PUCV**.
 - 🛠️ **Intereses:** Desarrollo web y móvil, automatización, inteligencia artificial y análisis de datos.
 - 💼 **Experiencia:** Automatización y sincronización de información con APIs en **Aurora SpA**; diseño y levantamiento de requerimientos para **Salud Mayor**, junto a la Seremi de Salud Valparaíso.
 - 🎯 **Enfoque actual:** Código limpio, resolución de problemas y trabajo colaborativo.
